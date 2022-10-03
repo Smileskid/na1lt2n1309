@@ -14,53 +14,52 @@
   <i> ( 请点击下面的文本框，查看里面那些令你印象深刻的视频。) </i>
 <img src="/anh/haha.jpg"><br>
   
-<p><a href="https://gitlab.com/Smileskid25/homeland/-/raw/main/vd1.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 世界上有多少未解之謎？-009fcc?logoWidth=1" title="视频: 世界上有多少未解之謎？" alt="视频: 世界上有多少未解之謎？"></a></p>
-<p><a href="https://gitlab.com/Smileskid26/homeland/-/raw/main/shenyun1.mp4 " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 顶级艺术 -009fcc?logoWidth=1" title="视频: 顶级艺术" alt="视频:  顶级艺术"></a></p>  
-<p><a href="https://gitlab.com/Smileskid27/homeland/-/raw/main/6-4.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/ 六四30周年 天安门大屠杀 看图见真相-009fcc?logoWidth=1" title="六四30周年 天安门大屠杀 看图见真相 " alt="六四30周年 天安门大屠杀 看图见真相 "></a></p>
+<p><a href="https://gitlab.com/Smileskid1999/homeland01/-/raw/main/vd1.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 世界上有多少未解之谜？-009fcc?logoWidth=1" title="视频: 世界上有多少未解之谜？" alt="视频: 世界上有多少未解之谜？"></a></p>
+<p><a href="https://gitlab.com/Smileskid10/homeland/-/raw/main/shenyun1.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 顶级艺术 -009fcc?logoWidth=1" title="视频: 顶级艺术" alt="视频:  顶级艺术"></a></p>  
+<p><a href="https://gitlab.com/Smileskid03/homeland/-/raw/main/6-4.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/ 六四30周年 天安门大屠杀 看图见真相-009fcc?logoWidth=1" title="六四30周年 天安门大屠杀 看图见真相" alt="六四30周年 天安门大屠杀 看图见真相"></a></p>
  
-<p><a href="https://gitlab.com/Smileskid28/homeland/-/raw/main/vd4.mp4 " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 高幹子弟簽證被拒 驚動高層-009fcc?logoWidth=1" title="视频: 高幹子弟簽證被拒 驚動高層" alt="视频: 高幹子弟簽證被拒 驚動高層"></a></p>
+<p><a href="https://gitlab.com/Smileskid04/homeland05/-/raw/main/vd4.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 高干子弟签证被拒 惊动高层-009fcc?logoWidth=1" title="视频: 高干子弟签证被拒 惊动高层" alt="视频: 高干子弟签证被拒 惊动高层"></a></p>
   
 <img src="/anh/haha.jpg"><br>
   
 
-<p><a href="https://gitlab.com/Smileskid29/homeland/-/raw/main/vd7.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/ 从小到大 我们排过的那些长长的队-009fcc?logoWidth=1" title=" 从小到大 我们排过的那些长长的队" alt=" 从小到大 我们排过的那些长长的队"></a></p>
-<p><a href="https://gitlab.com/Smileskid30/homeland/-/raw/main/d6.mp4 " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 瘟疫滅中共 上天在選人-009fcc?logoWidth=1" title="视频: 瘟疫滅中共 上天在選人" alt="视频: 瘟疫滅中共 上天在選人 "></a></p>
-<p><a href="https://gitlab.com/Smileskid31/homeland19/-/raw/main/vd5.mp4 " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 血色天空再現！ 天災人禍將臨？  -009fcc?logoWidth=1" title="视频: 血色天空再現！ 天災人禍將臨？ "></a></p>
-<p><a href="https://gitlab.com/Smileskid32/homeland/-/raw/main/shenyun2.mp4 " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 顶级艺术 -009fcc?logoWidth=1" title="视频: 顶级艺术" alt="视频:  顶级艺术"></a></p>   
+<p><a href="https://gitlab.com/Smileskid05/homeland06/-/raw/main/vd7.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/ 从小到大 我们排过的那些长长的队-009fcc?logoWidth=1" title=" 从小到大 我们排过的那些长长的队" alt=" 从小到大 我们排过的那些长长的队"></a></p>
+<p><a href="https://gitlab.com/Smileskid06/homeland/-/raw/main/d6.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 瘟疫灭中共 上天在选人-009fcc?logoWidth=1" title="视频: 瘟疫灭中共 上天在选人" alt="视频: 瘟疫灭中共 上天在选人 "></a></p>
+<p><a href="https://gitlab.com/Smileskid07/homeland/-/raw/main/vd5.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 血色天空再现！天灾人祸将临？  -009fcc?logoWidth=1" title="视频: 血色天空再现！天灾人祸将临？ "></a></p>
+<p><a href="https://gitlab.com/Smileskid08/homeland/-/raw/main/shenyun2.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 顶级艺术 -009fcc?logoWidth=1" title="视频: 顶级艺术" alt="视频:  顶级艺术"></a></p>   
 <img src="/anh/haha.jpg"><br> 
   
-<p><a href="https://gitlab.com/Smileskid33/homeland/-/raw/main/vd8.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 為什麼說 “中共不等於中國”？ -009fcc?logoWidth=1" title="视频: 為什麼說 “中共不等於中國”？ "></a></p>  
-<p><a href="https://gitlab.com/Smileskid34/homeland/-/raw/main/vd9.MP4 " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频:  谁是反神反宗教的组织？ -009fcc?logoWidth=1" title="视频:  谁是反神反宗教的组织？ "></a></p>  
-<p><a href="https://gitlab.com/Smileskid35/homeland/-/raw/main/vd10.mp4 " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频:  中共驚天祕密 國人身臨險境！ -009fcc?logoWidth=1" title="视频:  中共驚天祕密 國人身臨險境！ "></a></p>  
-<p><a href="https://gitlab.com/Smileskid36/homeland/-/raw/main/vd14.mp4 " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 你知道“藏字石”吗？-009fcc?logoWidth=1" title="视频:  你知道“藏字石”吗？ "></a></p>
+<p><a href="https://gitlab.com/Smileskid09/homeland/-/raw/main/vd8.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 为什么说 “中共不等于中国”？ -009fcc?logoWidth=1" title="视频: 为什么说 “中共不等于中国”？ "></a></p>  
+<p><a href="https://gitlab.com/Smileskid11/homeland/-/raw/main/vd9.MP4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频:  谁是反神反宗教的组织？ -009fcc?logoWidth=1" title="视频:  谁是反神反宗教的组织？ "></a></p>  
+<p><a href="https://gitlab.com/Smileskid12/homeland/-/raw/main/vd10.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频:  中共惊天秘密 国人身临险境！ -009fcc?logoWidth=1" title="视频:  中共惊天秘密 国人身临险境！ "></a></p>  
+<p><a href="https://gitlab.com/Smileskid13/homeland/-/raw/main/vd14.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频:  你知道“藏字石”吗？-009fcc?logoWidth=1" title="视频:  你知道“藏字石”吗？ "></a></p>
   
 <img src="/anh/haha.jpg"><br>
   
-<p><a href="https://gitlab.com/Smileskid37/homeland/-/raw/main/shenyun4.mp4 " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 顶级艺术 -009fcc?logoWidth=1" title="视频: 顶级艺术" alt="视频:  顶级艺术"></a></p>   
-<p><a href="https://gitlab.com/Smileskid38/homeland/-/raw/main/vd12.mp4 " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/ 有足够证据证明天安门自焚事件完全是假的 -009fcc?logoWidth=1" title=" 有足够证据证明天安门自焚事件完全是假的 "></a></p>  
-<p><a href="https://gitlab.com/Smileskid39/homeland/-/raw/main/tc1400.mp4 " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/ 过去1400人死亡的真相已经澄清。 -009fcc?logoWidth=1" title=" 过去1400人死亡的真相已经澄清。"></a></p>  
-<p><a href="https://gitlab.com/Smileskid40/homeland/-/raw/main/sukien254.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/ 你知道4月25日的惊天事件是什么吗？ -009fcc?logoWidth=1" title=" 你知道4月25日的惊天事件是什么吗？"></a></p>  
-<p><a href="https://gitlab.com/Smileskid41/homeland/-/raw/main/vd13.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频:  善惡有報是天理-009fcc?logoWidth=1" title="视频:善惡有報是天理 "></a></p> 
+<p><a href="https://gitlab.com/Smileskid14/homeland18/-/raw/main/shenyun4.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 顶级艺术 -009fcc?logoWidth=1" title="视频: 顶级艺术" alt="视频:  顶级艺术"></a></p>   
+<p><a href="https://gitlab.com/Smileskid15/homeland/-/raw/main/vd12.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/ 有足够证据证明天安门自焚事件完全是假的 -009fcc?logoWidth=1" title=" 有足够证据证明天安门自焚事件完全是假的 "></a></p>  
+<p><a href="https://gitlab.com/Smileskid16/homeland/-/raw/main/tc1400.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/ 过去1400人死亡的真相已经澄清。 -009fcc?logoWidth=1" title=" 过去1400人死亡的真相已经澄清。"></a></p>  
+<p><a href="https://gitlab.com/Smileskid17/homeland/-/raw/main/sukien254.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/ 你知道4月25日的惊天事件是什么吗？ -009fcc?logoWidth=1" title=" 你知道4月25日的惊天事件是什么吗？"></a></p>  
+<p><a href="https://gitlab.com/Smileskid18/homeland/-/raw/main/vd13.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频:  善惡有報是天理-009fcc?logoWidth=1" title="视频:善惡有報是天理 "></a></p> 
   
 <img src="/anh/haha.jpg"><br>
 
-<p><a href="https://gitlab.com/Smileskid42/homeland/-/raw/main/va1.MP4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 大難中誰能得救？穿越古今的神話  -009fcc?logoWidth=1" title="视频: 大難中誰能得救？穿越古今的神話 "></a></p>  
-<p><a href="https://gitlab.com/Smileskid43/homeland/-/raw/main/va2.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 你知道為何要退出黨，團，隊組織？   -009fcc?logoWidth=1" title="视频: 你知道為何要退出黨，團，隊組織？ "></a></p>     
-<p><a href="https://gitlab.com/Smileskid44/homeland/-/raw/main/t2.mp4 " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 追查國際主席汪志遠：四億三退 -009fcc?logoWidth=1" title="视频: 追查國際主席汪志遠：四億三退"></a></p> 
+<p><a href="https://gitlab.com/Smileskid02/homeland/-/raw/main/va1.MP4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 大難中誰能得救？穿越古今的神話  -009fcc?logoWidth=1" title="视频: 大難中誰能得救？穿越古今的神話 "></a></p>  
+<p><a href="https://gitlab.com/Smileskid19/homeland/-/raw/main/va2.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 你知道為何要退出黨，團，隊組織？   -009fcc?logoWidth=1" title="视频: 你知道為何要退出黨，團，隊組織？ "></a></p>     
+<p><a href="https://gitlab.com/Smileskid20/homeland/-/raw/main/t2.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 追查國際主席汪志遠：四億三退 -009fcc?logoWidth=1" title="视频: 追查國際主席汪志遠：四億三退"></a></p> 
 .
 <img src="/anh/haha.jpg"><br>
   
-<p><a href="http://td.duongve2.life/bighopes" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/我们郑重的送你一份保平安的礼物-yellow?logoWidth=1" title="我们郑重的送你一份保平安的礼物" alt="我们郑重的送你一份保平安的礼物"></a></p>  
+<p><a href="http://bigsuns.info " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/我们郑重的送你一份保平安的礼物-yellow?logoWidth=1" title="我们郑重的送你一份保平安的礼物" alt="我们郑重的送你一份保平安的礼物"></a></p>  
 
 
 <img src="/anh/haha.jpg"><br>
    
-   
   
-<p><a href="https://gitlab.com/Smileskid45/homeland07/-/raw/main/dp1.mp4 " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频:大法洪传 -009fcc?logoWidth=1" title="视频: 大法洪传" alt="视频: 大法洪传"></a></p>
-<p><a href="https://gitlab.com/Smileskid46/homeland/-/raw/main/9chuchanngon.mp4 " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/奇妙的九字真言-009fcc?logoWidth=1" title=" 奇妙的九字真言 " alt="奇妙的九字真言 "></a></p>  
-<p><a href="https://gitlab.com/Smileskid47/homeland/-/raw/main/dp4.mp4 " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频:大法洪传 -009fcc?logoWidth=1" title="视频: 大法洪传" alt="视频: 大法洪传"></a></p>  
-<p><a href="https://gitlab.com/Smileskid48/homeland/-/raw/main/gt1.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频:苏醒 (女声独唱) -009fcc?logoWidth=1" title="视频:苏醒 (女声独唱) " alt="视频:苏醒 (女声独唱) "></a></p>  
+<p><a href="https://gitlab.com/Smileskid21/homeland/-/raw/main/dp1.mp4 " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频:大法洪传 -009fcc?logoWidth=1" title="视频: 大法洪传" alt="视频: 大法洪传"></a></p>
+<p><a href="https://gitlab.com/Smileskid22/homeland/-/raw/main/9chuchanngon.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/奇妙的九字真言-009fcc?logoWidth=1" title=" 奇妙的九字真言 " alt="奇妙的九字真言 "></a></p>  
+<p><a href="https://gitlab.com/Smileskid23/homeland/-/raw/main/dp4.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频:大法洪传 -009fcc?logoWidth=1" title="视频: 大法洪传" alt="视频: 大法洪传"></a></p>  
+<p><a href="https://gitlab.com/Smileskid24/homeland/-/raw/main/gt1.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频:苏醒 (女声独唱) -009fcc?logoWidth=1" title="视频:苏醒 (女声独唱) " alt="视频:苏醒 (女声独唱) "></a></p>  
   
 <p>我们非常珍惜这个机缘！ 你已经平安了，所以我们希望你的家人也得到平安。 请帮助他们！ 不要让他们错过这个机缘！ </p>
 
